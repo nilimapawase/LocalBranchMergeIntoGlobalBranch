@@ -1,1 +1,2 @@
 this is another file for global developer branch.
+this is another message from git bash for local developer branch.
